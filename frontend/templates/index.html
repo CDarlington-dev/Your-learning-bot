@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IBM Badge Recommendations - YourLearningBot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎓 IBM Badge Recommendations</h1>
+            <p class="subtitle">Get personalized course recommendations based on your Credly badges</p>
+        </header>
+
+        <main>
+            <!-- Input Section -->
+            <section class="input-section">
+                <div class="card">
+                    <h2>Enter Your Credly Profile</h2>
+                    <p class="help-text">
+                        Enter your Credly username (e.g., christopher-darlington.bc0d040c)
+                        <br>
+                        <small>Find it in your Credly profile URL: credly.com/users/<strong>your-username</strong></small>
+                    </p>
+                    
+                    <form id="credlyForm">
+                        <div class="input-group">
+                            <input 
+                                type="text" 
+                                id="credlyUsername" 
+                                placeholder="your-username.userid"
+                                required
+                            >
+                            <button type="submit" id="submitBtn">
+                                <span class="btn-text">Get Recommendations</span>
+                                <span class="btn-loading" style="display: none;">
+                                    <span class="spinner"></span> Processing...
+                                </span>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </section>
+
+            <!-- Loading Section -->
+            <section id="loadingSection" class="loading-section" style="display: none;">
+                <div class="card">
+                    <div class="loading-content">
+                        <div class="spinner-large"></div>
+                        <h3>Analyzing Your Badges...</h3>
+                        <p id="loadingStatus">Fetching your Credly badges...</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Error Section -->
+            <section id="errorSection" class="error-section" style="display: none;">
+                <div class="card error-card">
+                    <h3>⚠️ Error</h3>
+                    <p id="errorMessage"></p>
+                    <button onclick="resetForm()" class="btn-secondary">Try Again</button>
+                </div>
+            </section>
+
+            <!-- Results Section -->
+            <section id="resultsSection" class="results-section" style="display: none;">
+                <!-- Summary Card -->
+                <div class="card summary-card">
+                    <h2>📊 Your Learning Summary</h2>
+                    <div class="summary-grid">
+                        <div class="summary-item">
+                            <div class="summary-value" id="completedCount">0</div>
+                            <div class="summary-label">Badges Earned</div>
+                        </div>
+                        <div class="summary-item">
+                            <div class="summary-value" id="availableCount">0</div>
+                            <div class="summary-label">Available Courses</div>
+                        </div>
+                        <div class="summary-item">
+                            <div class="summary-value" id="completionPercent">0%</div>
+                            <div class="summary-label">Completion</div>
+                        </div>
+                    </div>
+                    
+                    <div class="top-platforms" id="topPlatforms">
+                        <h3>Your Top Platforms:</h3>
+                        <div id="platformsList"></div>
+                    </div>
+                </div>
+
+                <!-- Recommendations Tabs -->
+                <div class="card">
+                    <div class="tabs">
+                        <button class="tab-btn active" onclick="showTab('all')">
+                            🎯 All Recommendations
+                        </button>
+                        <button class="tab-btn" onclick="showTab('next-level')">
+                            📈 Next Level
+                        </button>
+                        <button class="tab-btn" onclick="showTab('new-paths')">
+                            🌟 New Paths
+                        </button>
+                        <button class="tab-btn" onclick="showTab('parallel')">
+                            📚 Parallel
+                        </button>
+                    </div>
+
+                    <!-- All Recommendations Tab -->
+                    <div id="tab-all" class="tab-content active">
+                        <div class="recommendations-header">
+                            <h2>Top Recommendations</h2>
+                            <p>Sorted by relevance score</p>
+                        </div>
+                        <div id="allRecommendations" class="recommendations-list"></div>
+                    </div>
+
+                    <!-- Next Level Tab -->
+                    <div id="tab-next-level" class="tab-content">
+                        <div class="recommendations-header">
+                            <h2>📈 Next Level Courses</h2>
+                            <p>Continue your current learning paths</p>
+                        </div>
+                        <div id="nextLevelRecommendations" class="recommendations-list"></div>
+                    </div>
+
+                    <!-- New Paths Tab -->
+                    <div id="tab-new-paths" class="tab-content">
+                        <div class="recommendations-header">
+                            <h2>🌟 New Learning Paths</h2>
+                            <p>Start with L1 foundation courses</p>
+                        </div>
+                        <div id="newPathsRecommendations" class="recommendations-list"></div>
+                    </div>
+
+                    <!-- Parallel Tab -->
+                    <div id="tab-parallel" class="tab-content">
+                        <div class="recommendations-header">
+                            <h2>📚 Parallel Courses</h2>
+                            <p>Same level, different topics</p>
+                        </div>
+                        <div id="parallelRecommendations" class="recommendations-list"></div>
+                    </div>
+                </div>
+
+                <!-- Action Buttons -->
+                <div class="action-buttons">
+                    <button onclick="resetForm()" class="btn-secondary">
+                        🔄 Check Another Profile
+                    </button>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>Made with ❤️ by Bob | YourLearningBot v1.0</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
