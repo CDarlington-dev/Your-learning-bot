@@ -1,0 +1,65 @@
+[
+  {
+    "badge_name": "Master Data Management Sales Foundation",
+    "badge_link": "https://www.credly.com/badges/84293310-6dd7-45c5-9451-988642804d52",
+    "earned_date": "2026-06-22T14:14:33.000-05:00",
+    "issuer": "",
+    "description": "This badge earner is a sales or technical sales professional who has proven their foundational knowledge of the Master Data Management business value propositions. They can articulate the overall Data and AI story, and from there explain in detail how the core capabilities of Master Data Management can activate a client's master data and data matching practice."
+  },
+  {
+    "badge_name": "watsonx.data intelligence Data Sharing Sales Foundation",
+    "badge_link": "https://www.credly.com/badges/f891e4a4-5938-4778-8e4b-655cb89b1721",
+    "earned_date": "2026-06-19T14:57:04.000-05:00",
+    "issuer": "",
+    "description": "This badge holder is a sales and technical sales professional who has displayed a foundational understanding of the data product lifecycle. They are capable of effectively communicating the IBM Data and AI narrative, as well as articulating how watsonx.data intelligence Data Sharing streamlines data product creation, management, and distribution across an organization, emphasizing its value within a data fabric architecture, and how data products can enable faster AI-driven decision-making."
+  },
+  {
+    "badge_name": "watsonx.data integration Data Observability Sales Foundation",
+    "badge_link": "https://www.credly.com/badges/44397ee1-de3c-49a2-8ba6-7006a3c5546e",
+    "earned_date": "2026-06-18T13:27:17.000-05:00",
+    "issuer": "",
+    "description": "This badge earner is a sales or technical sales professional who has proven their foundational knowledge of watsonx.data integration: Data Observability. They understand how users can use data observability for data pipelines and data warehouse and how it automatically collects metadata to build historical baselines, detect anomalies and triage alerts to remediate data quality issues. They can act as trusted client advisor to deliver measurable business outcomes and drives business value."
+  },
+  {
+    "badge_name": "watsonx.data integration Real-time Streaming Sales Foundation",
+    "badge_link": "https://www.credly.com/badges/0ad37546-ac50-49fd-8a7b-d4fd20d1e3d5",
+    "earned_date": "2026-06-18T10:21:25.000-05:00",
+    "issuer": "",
+    "description": "This badge earner is a technical sales professional who has proven their foundational knowledge of watsonx.data integration: Real-time Streaming. They understand how users can create smart real-time streaming data pipelines and articulate the value propositions of real-time streaming, facilitating seamless data integration across hybrid and multicloud environments. Additionally, they can act as a trusted client advisor explaining the measurable business outcomes and drive business value."
+  },
+  {
+    "badge_name": "watsonx.data intelligence Data Lineage Sales Foundation",
+    "badge_link": "https://www.credly.com/badges/9db2f06c-7cf4-4073-91b6-aa1cffdcee3a",
+    "earned_date": "2026-06-16T09:21:31.000-05:00",
+    "issuer": "",
+    "description": "This badge earner is a sales or technical sales professional who has proven their foundational knowledge of the IBM watsonx.data intelligence Data Lineage capabilities. They can articulate the overall Data and AI story, and from there explain in detail how watsonx.data intelligence Data Lineage can contribute to a client's Data Governance practice."
+  },
+  {
+    "badge_name": "Confluent Sales Foundation",
+    "badge_link": "https://www.credly.com/badges/7a037297-98f7-499a-8165-a7e879f7184b",
+    "earned_date": "2026-06-14T19:00:00.000-05:00",
+    "issuer": "",
+    "description": "The badge earner has demonstrated fundamental knowledge and comprehension of Confluent. Equipped with insights into entry points and key differentiators, they are well-prepared to present this offering to clients. By effectively addressing common client pain points, articulating the business and technical value, they can act as a trusted advisor, minimizing buyer friction and facilitating the client’s data streaming journey."
+  },
+  {
+    "badge_name": "watsonx.data integration ETL and ELT Sales Foundation",
+    "badge_link": "https://www.credly.com/badges/16f164f1-3348-4c7c-b28b-8ddf42897c98",
+    "earned_date": "2026-06-15T10:47:10.000-05:00",
+    "issuer": "",
+    "description": "This badge earner is a sales or technical sales professional who has proven their foundational knowledge of watsonx.data integration: ETL (extract, transform, and load) and ELT (extract, load, and transform). They will understand how users can use this as a data integration tool that helps clients design, develop, and run jobs that move and transform data, specifically ETL and ELT patterns. They can act as trusted client advisor delivering measurable business outcomes and drives business value."
+  },
+  {
+    "badge_name": "watsonx.data intelligence Data Governance Sales Foundation",
+    "badge_link": "https://www.credly.com/badges/c0387f1d-60f3-4046-b020-842ed926933f",
+    "earned_date": "2026-06-15T15:16:31.000-05:00",
+    "issuer": "",
+    "description": "This badge earner is a sales or technical sales professional who has proven their foundational knowledge of the IBM's watsonx.data intelligence Data Governance's capabilities. They should be able to articulate the Data Fabric story line and explain in detail how to comprehensively address the entire data lifecycle, providing a seamless, end-to-end, integrated data intelligence approach to all aspects of data governance."
+  },
+  {
+    "badge_name": "watsonx.data Sales Foundation",
+    "badge_link": "https://www.credly.com/badges/44a011d3-6fce-498f-b935-e01cdb37daa1",
+    "earned_date": "2026-06-04T08:37:36.000-05:00",
+    "issuer": "",
+    "description": "This badge earner understands the concepts and advantages of artificial intelligence (AI), along with IBM's distinctive AI strategy for addressing ethical and sustainable AI challenges. They grasp the significance of the watsonx AI and data platform and how watsonx.data fulfills the data storage and processing requirements in the AI development life cycle. Additionally, they can articulate how watsonx.data is a versatile solution for enterprise needs related to data lakehouse functionality."
+  }
+]

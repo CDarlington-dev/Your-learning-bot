@@ -1,0 +1,99 @@
+{
+  "completed_badges": [
+    {
+      "id": 236,
+      "badge_name": "Master Data Management Sales Foundation",
+      "level": 1,
+      "earned_date": "2026-06-22T14:14:33.000-05:00",
+      "l1_header": "Data Platform",
+      "l2_category": "Data Fabric",
+      "l3_category": "Data Intelligence"
+    },
+    {
+      "id": 231,
+      "badge_name": "watsonx.data intelligence Data Sharing Sales Foundation",
+      "level": 1,
+      "earned_date": "2026-06-19T14:57:04.000-05:00",
+      "l1_header": "Data Platform",
+      "l2_category": "Data Fabric",
+      "l3_category": "Data Intelligence"
+    },
+    {
+      "id": 223,
+      "badge_name": "watsonx.data integration Data Observability Sales Foundation",
+      "level": 1,
+      "earned_date": "2026-06-18T13:27:17.000-05:00",
+      "l1_header": "Data Platform",
+      "l2_category": "Data Fabric",
+      "l3_category": "Data Integration"
+    },
+    {
+      "id": 226,
+      "badge_name": "watsonx.data integration Real-time Streaming Sales Foundation",
+      "level": 1,
+      "earned_date": "2026-06-18T10:21:25.000-05:00",
+      "l1_header": "Data Platform",
+      "l2_category": "Data Fabric",
+      "l3_category": "Data Integration"
+    },
+    {
+      "id": 234,
+      "badge_name": "watsonx.data intelligence Data Lineage Sales Foundation",
+      "level": 1,
+      "earned_date": "2026-06-16T09:21:31.000-05:00",
+      "l1_header": "Data Platform",
+      "l2_category": "Data Fabric",
+      "l3_category": "Data Intelligence"
+    },
+    {
+      "id": 163,
+      "badge_name": "Confluent Sales Foundation",
+      "level": 1,
+      "earned_date": "2026-06-14T19:00:00.000-05:00",
+      "l1_header": "Data Platform",
+      "l2_category": "",
+      "l3_category": "Confluent"
+    },
+    {
+      "id": 220,
+      "badge_name": "watsonx.data integration ETL and ELT Sales Foundation",
+      "level": 1,
+      "earned_date": "2026-06-15T10:47:10.000-05:00",
+      "l1_header": "Data Platform",
+      "l2_category": "Data Fabric",
+      "l3_category": "Data Integration"
+    },
+    {
+      "id": 229,
+      "badge_name": "watsonx.data intelligence Data Governance Sales Foundation",
+      "level": 1,
+      "earned_date": "2026-06-15T15:16:31.000-05:00",
+      "l1_header": "Data Platform",
+      "l2_category": "Data Fabric",
+      "l3_category": "Data Intelligence"
+    },
+    {
+      "id": 242,
+      "badge_name": "watsonx.data Sales Foundation",
+      "level": 1,
+      "earned_date": "2026-06-04T08:37:36.000-05:00",
+      "l1_header": "Data Platform",
+      "l2_category": "Data Fabric",
+      "l3_category": "Data Lakehouse"
+    }
+  ],
+  "completed_ids": [
+    236,
+    231,
+    223,
+    226,
+    234,
+    163,
+    220,
+    229,
+    242
+  ],
+  "unmatched_badges": [],
+  "total_completed": 9,
+  "total_unmatched": 0
+}

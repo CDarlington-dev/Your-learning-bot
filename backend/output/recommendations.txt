@@ -1,0 +1,170 @@
+================================================================================
+IBM BADGE RECOMMENDATIONS - SORTED BY SCORE
+================================================================================
+Generated: 2026-06-24 13:11:10
+Total Completed: 9
+Completion: 2.6%
+================================================================================
+
+TOP 20 RECOMMENDED COURSES:
+--------------------------------------------------------------------------------
+
+1. Customer 360 Technical Sales Intermediate
+   Score: 120.0/100 | Level: L2-Intermediate | Priority: next_level
+   Platform: Data Platform
+   Category: Data Fabric > Data Intelligence
+   Link: https://yourlearning.ibm.com/activity/PLAN-9CB5D008A06F
+
+2. watsonx.data intelligence Data Governance Intermediate
+   Score: 120.0/100 | Level: L2-Intermediate | Priority: next_level
+   Platform: Data Platform
+   Category: Data Fabric > Data Intelligence
+   Link: https://yourlearning.ibm.com/activity/PLAN-E0DDF6C0F953
+
+3. watsonx.data intelligence Data Sharing Intermediate
+   Score: 120.0/100 | Level: L2-Intermediate | Priority: next_level
+   Platform: Data Platform
+   Category: Data Fabric > Data Intelligence
+   Link: https://yourlearning.ibm.com/activity/PLAN-6B733F8FB173
+
+4. watsonx.data intelligence Data Lineage Technical Sales Intermediate
+   Score: 120.0/100 | Level: L2-Intermediate | Priority: next_level
+   Platform: Data Platform
+   Category: Data Fabric > Data Intelligence
+   Link: https://yourlearning.ibm.com/activity/PLAN-06C10073E63B
+
+5. Master Data Management Intermediate
+   Score: 120.0/100 | Level: L2-Intermediate | Priority: next_level
+   Platform: Data Platform
+   Category: Data Fabric > Data Intelligence
+   Link: https://yourlearning.ibm.com/activity/PLAN-40F8967D9D4A
+
+6. watsonx.data integration ETL and ELT Intermediate
+   Score: 111.2/100 | Level: L2-Intermediate | Priority: next_level
+   Platform: Data Platform
+   Category: Data Fabric > Data Integration
+   Link: https://yourlearning.ibm.com/activity/PLAN-D0F608EC00D4
+
+7. Data Replication Intermediate
+   Score: 111.2/100 | Level: L2-Intermediate | Priority: next_level
+   Platform: Data Platform
+   Category: Data Fabric > Data Integration
+   Link: https://yourlearning.ibm.com/activity/PLAN-6FF82B5FFF05
+
+8. watsonx.data integration Data Observability Intermediate
+   Score: 111.2/100 | Level: L2-Intermediate | Priority: next_level
+   Platform: Data Platform
+   Category: Data Fabric > Data Integration
+   Link: https://yourlearning.ibm.com/activity/PLAN-A390328C0AD0
+
+9. watsonx.data integration Real-time Streaming Intermediate
+   Score: 111.2/100 | Level: L2-Intermediate | Priority: next_level
+   Platform: Data Platform
+   Category: Data Fabric > Data Integration
+   Link: https://yourlearning.ibm.com/activity/PLAN-9151C7D0112C
+
+10. watsonx.data Intermediate
+   Score: 93.8/100 | Level: L2-Intermediate | Priority: next_level
+   Platform: Data Platform
+   Category: Data Fabric > Data Lakehouse
+   Link: https://yourlearning.ibm.com/activity/PLAN-D1A3C14641E5
+
+11. SPSS Statistics Sales Foundation
+   Score: 85.0/100 | Level: L1-Foundation | Priority: new_paths
+   Platform: Data Platform
+   Category: Data Fabric > Data Intelligence
+   Link: https://yourlearning.ibm.com/activity/PLAN-3C06A9FA6AF3
+
+12. Watson Query Sales Foundation
+   Score: 85.0/100 | Level: L1-Foundation | Priority: new_paths
+   Platform: Data Platform
+   Category: Data Fabric > Data Intelligence
+   Link: https://yourlearning.ibm.com/activity/PLAN-3E1EAAF330BB
+
+13. Guardium Suite Sales Foundation
+   Score: 50.0/100 | Level: L1-Foundation | Priority: new_paths
+   Platform: Data Platform
+   Category: Data Fabric > Data Security
+   Link: https://yourlearning.ibm.com/activity/PLAN-936395CB3DA2
+
+14. Guardium Data Protection Sales Foundation
+   Score: 50.0/100 | Level: L1-Foundation | Priority: new_paths
+   Platform: Data Platform
+   Category: Data Fabric > Data Security
+   Link: https://yourlearning.ibm.com/activity/PLAN-65A7F4C08A13
+
+15. Guardium Data Security Center Sales Foundation
+   Score: 50.0/100 | Level: L1-Foundation | Priority: new_paths
+   Platform: Data Platform
+   Category: Data Fabric > Data Security
+   Link: https://yourlearning.ibm.com/activity/PLAN-5532B5C01E0E
+
+16. Guardium Cryptography Manager Sales Foundation
+   Score: 50.0/100 | Level: L1-Foundation | Priority: new_paths
+   Platform: Data Platform
+   Category: Data Fabric > Data Security
+   Link: https://yourlearning.ibm.com/activity/PLAN-2D8FECC4819C
+
+17. Guardium Discover and Classify Sales Foundation
+   Score: 50.0/100 | Level: L1-Foundation | Priority: new_paths
+   Platform: Data Platform
+   Category: Data Fabric > Data Security
+   Link: https://yourlearning.ibm.com/activity/PLAN-2EA954C06444
+
+18. Guardium Key Lifecycle Management Sales Foundation
+   Score: 50.0/100 | Level: L1-Foundation | Priority: new_paths
+   Platform: Data Platform
+   Category: Data Fabric > Data Security
+   Link: https://yourlearning.ibm.com/activity/PLAN-AA07D676CD2B
+
+19. Db2 Sales Foundation
+   Score: 50.0/100 | Level: L1-Foundation | Priority: new_paths
+   Platform: Data Platform
+   Category: Data Fabric > Databases
+   Link: https://yourlearning.ibm.com/activity/PLAN-E245A4DA2C5F
+
+20. Informix Sales Foundation
+   Score: 50.0/100 | Level: L1-Foundation | Priority: new_paths
+   Platform: Data Platform
+   Category: Data Fabric > Databases
+   Link: https://yourlearning.ibm.com/activity/PLAN-BBF22048B08F
+
+
+================================================================================
+RECOMMENDATIONS BY PRIORITY:
+================================================================================
+
+
+🎯 NEXT LEVEL (Continue Current Paths)
+--------------------------------------------------------------------------------
+  • Customer 360 Technical Sales Intermediate (Score: 120.0)
+  • watsonx.data intelligence Data Governance Intermediate (Score: 120.0)
+  • watsonx.data intelligence Data Sharing Intermediate (Score: 120.0)
+  • watsonx.data intelligence Data Lineage Technical Sales Intermediate (Score: 120.0)
+  • Master Data Management Intermediate (Score: 120.0)
+  • watsonx.data integration ETL and ELT Intermediate (Score: 111.2)
+  • Data Replication Intermediate (Score: 111.2)
+  • watsonx.data integration Data Observability Intermediate (Score: 111.2)
+  • watsonx.data integration Real-time Streaming Intermediate (Score: 111.2)
+  • watsonx.data Intermediate (Score: 93.8)
+
+🌟 NEW PATHS (Start New Foundations)
+--------------------------------------------------------------------------------
+  • SPSS Statistics Sales Foundation (Score: 85.0)
+  • Watson Query Sales Foundation (Score: 85.0)
+  • Guardium Suite Sales Foundation (Score: 50.0)
+  • Guardium Data Protection Sales Foundation (Score: 50.0)
+  • Guardium Data Security Center Sales Foundation (Score: 50.0)
+  • Guardium Cryptography Manager Sales Foundation (Score: 50.0)
+  • Guardium Discover and Classify Sales Foundation (Score: 50.0)
+  • Guardium Key Lifecycle Management Sales Foundation (Score: 50.0)
+  • Db2 Sales Foundation (Score: 50.0)
+  • Informix Sales Foundation (Score: 50.0)
+
+🚀 ADVANCED (Higher Level Courses)
+--------------------------------------------------------------------------------
+  • FinOps Certified Practitioner (Score: 0.0)
+  • T urbonomic Practitioner Mastery (Score: 0.0)
+  • IBM zStack Expertise (Score: 0.0)
+  • IBM Z Business Partner Technical Solution Planning (Score: 0.0)
+  • IBM Z Cyber Resiliency Technical Advisor (Score: 0.0)
